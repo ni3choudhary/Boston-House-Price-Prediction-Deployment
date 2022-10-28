@@ -41,7 +41,7 @@ $ pip install -r requirements.txt
 $ python app.py
 ```
 
-• If you want to view the deployed model, click on the following link: Deployed at: 
+• If you want to view the deployed model, click on the following link: Deployed at: https://boston-price-prediction-lr.herokuapp.com/
 
 • Please do ⭐ the repository, if it helped you in anyway.
 
